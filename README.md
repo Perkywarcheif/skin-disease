@@ -23,15 +23,29 @@ Welcome to the **Skin Disease Detector** project! 🧑‍⚕️🖼️ This tool
 
 ---
 
+---
+
+## 🌐 Live Demo
+
+Check out the deployed application here 👉 [Skin Disease Detector App](https://skin-disease-fgjydjg2vxcat8xaffnym3.streamlit.app/) 🚀
+
+---
+
+
 ## 📁 Project Structure
 
-skin-disease/
+**skin-disease/
 ├── images/ # Sample images
+
 ├── Skin_disease_detector.py # Main application script
+
 ├── runner.ipynb # Jupyter Notebook for model training and evaluation
+
 ├── skin_disease.csv # Dataset file
+
 ├── requirements.txt # Python dependencies
-└── .gitignore # Git ignore file
+
+└── .gitignore # Git ignore file**
 
 ---
 
