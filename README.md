@@ -72,7 +72,7 @@ skin-disease/
 
 **📬 Contact**
 
-    For any inquiries or feedback, please reach out to anirudh.mamilla1@gmail.com.
+   **For any inquiries or feedback, please reach out to anirudh.mamilla1@gmail.com**
 
 Let's harness technology to make healthcare more accessible and efficient! 🩺💡
 
