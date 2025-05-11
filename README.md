@@ -58,7 +58,7 @@ skin-disease/
 
 		           python Skin_disease_detector.py
 
-		     For Jupyter Notebook:
+         For Jupyter Notebook:
 
 		           jupyter notebook runner.ipynb
 
