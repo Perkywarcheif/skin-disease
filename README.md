@@ -63,21 +63,25 @@ skin-disease/
 		           jupyter notebook runner.ipynb
 
  **📊 Dataset**
+       
        The dataset used for training and evaluation is included in the repository as skin_disease.csv. It contains labeled images of various skin conditions.
 
  **🤝 Contributing**
-        Contributions are welcome! If you have suggestions for improvements or want to add new features, feel free to fork the repository and submit a pull request.
+        
+	Contributions are welcome! If you have suggestions for improvements or want to add new features, feel free to fork the repository and submit a pull request.
 
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+**📄 License**
 
-📬 Contact
-For any inquiries or feedback, please reach out to [your email address].
+      This project is licensed under the MIT License. See the LICENSE file for details.
+
+**📬 Contact**
+
+    For any inquiries or feedback, please reach out to anirudh.mamilla1@gmail.com.
 
 Let's harness technology to make healthcare more accessible and efficient! 🩺💡
 
 
-This completes the "Getting Started" section and adds sections for contributing, license, and contact information. You can adjust the **contact email** and **license** details according to your needs. Let me know if you'd like further edits!
+**This completes the "Getting Started" section and adds sections for contributing, license, and contact information. You can adjust the **contact email** and **license** details according to your needs. Let me know if you'd like further edits!**
 
 
 
