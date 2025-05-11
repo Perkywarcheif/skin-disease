@@ -43,16 +43,16 @@ skin-disease/
    git clone https://github.com/Perkywarcheif/skin-disease.git
    cd skin-disease
 
-2. **Create a virtual environment (optional but recommended):
+2. **Create a virtual environment (optional but recommended)**:
 
 		python -m venv env
     source env/bin/activate  # On Windows, use `env\Scripts\activate`
 
-3.  **Install the required packages:
+3.  **Install the required packages**:
      
     pip install -r requirements.txt
 
-4.  **Run the application:
+4.  **Run the application**:
 
          For script execution:
 
@@ -62,10 +62,10 @@ skin-disease/
 
 		           jupyter notebook runner.ipynb
 
- **📊 Dataset
+ **📊 Dataset**
        The dataset used for training and evaluation is included in the repository as skin_disease.csv. It contains labeled images of various skin conditions.
 
- **🤝 Contributing
+ **🤝 Contributing**
         Contributions are welcome! If you have suggestions for improvements or want to add new features, feel free to fork the repository and submit a pull request.
 
 📄 License
